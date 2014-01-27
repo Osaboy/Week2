@@ -8,6 +8,6 @@ using "2.times do" instead of duplicating the "player.add_card(deck.deal_one) an
 
 ###BlackJackv2.rb
 The Dealer class now inherits from the player class
-=====
 
+--------------------------------------------------------------------------------------
 Looking forward to Week 3 
